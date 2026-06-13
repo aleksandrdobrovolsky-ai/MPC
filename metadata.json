@@ -1,0 +1,6 @@
+{
+  "name": "MPC 2500",
+  "description": "Retro Akai MPC 2500 Sampler. Features 16 rubber pads (Banks A-D), a vintage pixel LCD display, Q-Link sliders, custom sound synthesis, and a real-time looping step sequencer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
